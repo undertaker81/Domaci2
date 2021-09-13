@@ -33,7 +33,7 @@
 }
 .rejting{
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 4fr 1fr;
     margin: 2px;
 
 }
@@ -67,6 +67,7 @@
     width: 5cm;
     height: 5cm;
     margin: 1cm;
+    background-size: cover;
     background: url(https://www.laguna.rs/_img/korice/3234/bajke_hansa_kristijana_andersena-hans_kristijan_andersen_v.jpg)
     
 }
@@ -94,3 +95,9 @@
     width: 30%;
 
 }
+.star_rating {
+    margin-right: 80%;
+    width: 100%;
+    text-align: center;
+    color: white;
+  }

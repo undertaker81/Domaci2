@@ -51,28 +51,30 @@
     width: 5cm;
     height: 5cm;
     margin: 1cm;
-    background: greenyellow;
+    background: url(https://www.antikvarijat-phoenix.com/pic_nas/12412.jpg);
+    background-size: 5cm;
 }
 .kartica3{
     border: 2px solid black;
     width: 5cm;
     height: 5cm;
     margin: 1cm;
-    background: greenyellow;
+    background:url(https://www.delfi.rs/_img/artikli/knjige/300/vv/delfi_predstava_za_gospodara_kolin_mekalou.jpg);
+    bac
 }
 .kartica4{
     border: 2px solid black;
     width: 5cm;
     height: 5cm;
     margin: 1cm;
-    background: greenyellow;
+    background: url(https://www.laguna.rs/_img/korice/3234/bajke_hansa_kristijana_andersena-hans_kristijan_andersen_v.jpg)
 }
 .kartica5{
     border: 2px solid black;
     width: 5cm;
     height: 5cm;
     margin: 1cm;
-    background: greenyellow;
+    background: url(https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553278071l/22049772._SX318_.jpg);
 }
 .ocena{
     text-align: center;

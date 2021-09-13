@@ -43,7 +43,7 @@
     height: 5cm;
     margin: 1cm;
     background: url(http://www.tolkienlibrary.com/press/images/movie-tie-in-The-hobbit.jpg);
-    background-size: 5cm;
+    background-size: cover;
     
 }
 .kartica2{
@@ -52,7 +52,7 @@
     height: 5cm;
     margin: 1cm;
     background: url(https://www.antikvarijat-phoenix.com/pic_nas/12412.jpg);
-    background-size: 5cm;
+    background-size: cover;
 }
 .kartica3{
     border: 2px solid black;
@@ -60,7 +60,7 @@
     height: 5cm;
     margin: 1cm;
     background:url(https://www.delfi.rs/_img/artikli/knjige/300/vv/delfi_predstava_za_gospodara_kolin_mekalou.jpg);
-    bac
+    background-size: cover;
 }
 .kartica4{
     border: 2px solid black;
@@ -68,6 +68,7 @@
     height: 5cm;
     margin: 1cm;
     background: url(https://www.laguna.rs/_img/korice/3234/bajke_hansa_kristijana_andersena-hans_kristijan_andersen_v.jpg)
+    
 }
 .kartica5{
     border: 2px solid black;
@@ -75,11 +76,13 @@
     height: 5cm;
     margin: 1cm;
     background: url(https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553278071l/22049772._SX318_.jpg);
+    background-size: cover;
 }
 .ocena{
     text-align: center;
     margin-right: 90%;
     width: 100%;
+    color: white;
 }
 .red{
     text-align: center;
